@@ -1,0 +1,7 @@
+C:\Users\Chronus\Documents\Visual Studio 2012\Projects\Eksaskisi\MenuNavigator\MenuNavigator\obj\Debug\MenuNavigator.csprojResolveAssemblyReference.cache
+C:\Users\Chronus\Documents\Visual Studio 2012\Projects\Eksaskisi\MenuNavigator\MenuNavigator\bin\Debug\MenuNavigator.dll
+C:\Users\Chronus\Documents\Visual Studio 2012\Projects\Eksaskisi\MenuNavigator\MenuNavigator\bin\Debug\MenuNavigator.pdb
+C:\Users\Chronus\Documents\Visual Studio 2012\Projects\Eksaskisi\MenuNavigator\MenuNavigator\bin\Debug\CMDesign.dll
+C:\Users\Chronus\Documents\Visual Studio 2012\Projects\Eksaskisi\MenuNavigator\MenuNavigator\bin\Debug\CMDesign.pdb
+C:\Users\Chronus\Documents\Visual Studio 2012\Projects\Eksaskisi\MenuNavigator\MenuNavigator\obj\Debug\MenuNavigator.dll
+C:\Users\Chronus\Documents\Visual Studio 2012\Projects\Eksaskisi\MenuNavigator\MenuNavigator\obj\Debug\MenuNavigator.pdb
